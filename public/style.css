@@ -14,11 +14,15 @@ h1{
     text-align: center;
 }
 
-img{
+.main-img{
     width: 300;
     height: 300;
     position: relative;
-    width: 50%;
+    left: 25%;
+}
+
+.main-summary > p{
+    text-align: center;
 }
 
 h2{
