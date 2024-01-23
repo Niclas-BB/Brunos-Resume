@@ -19,6 +19,7 @@ h1{
     width: 300;
     height: 300;
     position: absolute;
+    left: 25%
 }
 
 @media (max-width: 480px) {
@@ -26,6 +27,7 @@ h1{
         width: 300;
         height: 300;
         position: absolute;
+        left: 10%
     }
     
 }
