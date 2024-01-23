@@ -11,15 +11,15 @@
 }
 
 .main-heading > img {
-    width: 300;
-    height: 300;
+    width: 300px;
+    height: 300px;
     position: relative;
 }
 
 @media (max-width: 480px) {
     .main-heading > img{
-        width: 300;
-        height: 300;
+        width: 300px;
+        height: 300px;
         position: relative;
         left: 10%
     }
