@@ -15,19 +15,17 @@ h1{
     text-align: center;
 }
 
-.main-img{
+.main-heading > img {
     width: 300;
     height: 300;
     position: absolute;
-    left: 25%;
 }
 
 @media (max-width: 480px) {
-    .main-img{
+    .main-heading > img{
         width: 300;
         height: 300;
         position: absolute;
-        left: 0%;
     }
     
 }
