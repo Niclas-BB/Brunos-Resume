@@ -1,0 +1,39 @@
+*{
+    background-color: #EEEEEE;
+}
+
+.main{
+    text-align: center;
+    color: #1f57ac;
+}
+
+img{
+    width: 300;
+    height: 300;
+}
+
+h2{
+    color: #00ADB5;
+    text-align: center;
+}
+
+.summary > p{
+    text-align: center;
+}
+
+.sub-heading{
+    color: #00ADB5;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.sub-page li{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.sub-page div{
+    text-align: center;
+}
+
+
